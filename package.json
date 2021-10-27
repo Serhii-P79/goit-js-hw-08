@@ -22,7 +22,14 @@
     "parcel-bundler": "^1.12.5",
     "parcel-plugin-handlebars-precompile": "^1.0.2",
     "parcel-plugin-nuke-dist": "^1.0.1",
-    "posthtml-include": "^1.6.2",
-    "sass": "^1.32.8"
+    "posthtml-include": "^1.7.2",
+    "sass": "^1.43.4"
+  },
+  "dependencies": {
+    "@vimeo/player": "^2.16.1",
+    "lodash.throttle": "^4.1.1",
+    "simplelightbox": "^2.9.0",
+    "storage": "^0.2.0",
+    "storage.js": "^1.1.1"
   }
 }
