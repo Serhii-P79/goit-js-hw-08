@@ -6,7 +6,7 @@ import { galleryItems } from './gallery-items';
 
 // console.log(galleryItems);
 
-// console.log('Первая домашка');
+console.log('Галерея');
 
 const refer = {
   containerGallery: document.querySelector('.gallery'),
